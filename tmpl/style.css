@@ -1,0 +1,26 @@
+/**
+ * @version   1.0.0 Abril  2014
+ * @author    RocketTheme http://www.juegaenlinea.com
+ * @copyright Copyright (C) 2007 - 2011 JuegaenLinea, LLC
+ * @license   http://www.gnu.org/licenses/gpl-2.0.html GNU/GPLv2 only
+ */
+
+/* CSS VALIDACION */
+.invalid {background: url(./validation/warning.png) 133px 0 no-repeat; color: #EE3B3B  !important;}
+.requerido {background: url(./validation/no-disponible.png) 0 3px no-repeat; color: #EE3B3B  !important; margin: 8px 0 0 150px;}
+.requerido p {margin-left: 20px; font-weight: bold;}
+.invalid_username {background: url(./validation/no-disponible.png) 0 3px no-repeat; color: #EE3B3B  !important; margin: 8px 0 0 150px;}
+.valid_username {background: url(./validation/disponible.png) 0 3px no-repeat; color: #04BF5E  !important;  margin: 8px 0 0 150px; }
+.invalid_username p {margin-left: 20px; font-weight: bold;}
+.valid_username p {margin-left: 20px; font-weight: bold;}
+.email_confirm {background: url(./validation/warning.png) 0 0 no-repeat; color: #EE3B3B  !important; margin: 8px 0 0 150px;}
+.email_confirm p {margin-left: 20px; font-weight: bold;}
+
+
+.password_requerido {margin-left: 153px; font-weight: bold; color: #EE3B3B  !important;}
+.password_debil {margin-left: 153px; font-weight: bold; color: #FFCB5B  !important;}
+.password_aceptable {margin-left: 153px; font-weight: bold; color: #0B9CF0  !important;}
+.password_seguro {margin-left: 153px; font-weight: bold; color: #0BF099 !important;}
+.password_fuerte {margin-left: 153px; font-weight: bold; color: #18A206 !important;}
+.terminos {margin-left: 153px; font-weight: bold; color: #EE3B3B  !important;}
+#terminos2_errs{margin-left: 175px; margin-top: -22px}
