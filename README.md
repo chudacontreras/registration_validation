@@ -7,7 +7,9 @@ Este plugin es Una bifurcación del plugin de function90 (http://www.function90.
 
 Modificado por mi para una adaptacion, propia.
 
-Que hace el plugin añade soporte a la validacion de registro de usuarios de joomla, con ajax, valida el correo electronico y la contraseña (por lo menos de 4 caracteres), en el registro por defecto de Joomla el usuario es alertado, luego del registro de los errores, al instalar este plugin se verán los errores al instante.
+¿Que hace el plugin?
+
+Añade soporte a la validacion de registro de usuarios de joomla, con ajax, valida el correo electronico y la contraseña (por lo menos de 4 caracteres), en el registro por defecto de Joomla el usuario es alertado, luego del registro de los errores, al instalar este plugin se verán los errores al instante.
 
 los errores que valida el plugin asta ahora son:
 
